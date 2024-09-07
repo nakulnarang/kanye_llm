@@ -19,8 +19,8 @@ This project involves fine-tuning the `TinyLlama-1.1B` model to generate Kanye W
 
 ## Instructions to Run
 
-1. **Clone the Repository**  
+-- **Clone the Repository**  
    Clone the repository to your local machine and navigate into the project directory:
 
-2. **Upload dataset and ipynb notebook to google colab and use the GPU there to run the entire notebook for faster execution**
+-- Upload dataset and ipynb notebook to google colab and use the GPU there to run the entire notebook for faster execution
 
