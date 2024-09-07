@@ -9,6 +9,13 @@ This project involves fine-tuning the `TinyLlama-1.1B` model to generate Kanye W
 - **Dataset**: The dataset is generated using the GPT-4 API and consists of 1000 prompt-response pairs in Kanye West's style, stored in `kanye_1000_conversations.json`.
 - **Evaluation**: The model's performance is evaluated by computing the average perplexity of generated responses.
 
+## Instructions to Run
+  
+-- **Clone the Repository**
+   Clone the repository to your local machine and navigate into the project directory:
+  
+-- Upload dataset and ipynb notebook to google colab and use the GPU there to run the entire notebook for faster execution
+
 ## Repository Structure
 
 ```plaintext
@@ -17,10 +24,4 @@ This project involves fine-tuning the `TinyLlama-1.1B` model to generate Kanye W
 ├── kanye_1000_conversations.json # Dataset containing 1000 prompt-response pairs
 ├── README.md                  # Project documentation
 
-## Instructions to Run
-
--- **Clone the Repository**  
-   Clone the repository to your local machine and navigate into the project directory:
-
--- Upload dataset and ipynb notebook to google colab and use the GPU there to run the entire notebook for faster execution
 
